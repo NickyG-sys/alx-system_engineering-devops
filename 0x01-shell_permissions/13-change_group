@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp mydir_ hello
+chgrp alx hello
