@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -h betty:alx-system_engineering-devops __hello
+chown -h betty:root __hello
