@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -h betty:root __hello
+chown -h betty:root my_first_directory __hello
