@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -h vincent : $USER  alx _hello
+chown -h vincent :  alx _hello
