@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -h 777 my_first_directory __hello
+chown -h betty:alx _hello

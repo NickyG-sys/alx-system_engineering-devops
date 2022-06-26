@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown betty:my_dir *
+chown betty:holberton *
