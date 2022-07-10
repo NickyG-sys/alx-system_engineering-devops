@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "Best School" > "\*\\\'\"Best School\"\'\\\*$\?\*\*\*\*\*:)"
+tail -1 < iacta >> iacta
 
 
