@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -h -R betty:alx-system_engineering-devops _hello
+chown -h vincet:staff _hello
